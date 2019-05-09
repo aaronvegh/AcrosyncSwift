@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "AcrosyncSwift"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A Swift framework for the Acrosync library"
 
   # This description is used to generate tags and improve search results.
@@ -39,7 +39,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  # spec.license      = "Unlicense"
+  spec.license      = "Unlicense"
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -55,7 +55,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "Aaron Vegh" => "aaron@innoveghtive.com" }
   # Or just: spec.author    = "Aaron Vegh"
   # spec.authors            = { "Aaron Vegh" => "aaron@innoveghtive.com" }
-  spec.social_media_url   = "https://twitter.com/Aaron Vegh"
+  spec.social_media_url   = "https://twitter.com/aaronvegh"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
