@@ -13,33 +13,33 @@
 		93562F8E227D138000872058 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93562F8C227D138000872058 /* Main.storyboard */; };
 		93562F90227D138100872058 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93562F8F227D138100872058 /* Assets.xcassets */; };
 		93562F93227D138100872058 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93562F91227D138100872058 /* LaunchScreen.storyboard */; };
-		93562FB1227D14E900872058 /* rsync_pathutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F99227D14E800872058 /* rsync_pathutil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FB1227D14E900872058 /* rsync_pathutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F99227D14E800872058 /* rsync_pathutil.h */; };
 		93562FB2227D14E900872058 /* rsync_sshio.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562F9A227D14E800872058 /* rsync_sshio.cpp */; };
-		93562FB3227D14E900872058 /* rsync_sshio.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F9B227D14E800872058 /* rsync_sshio.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		93562FB4227D14E900872058 /* rsync_stream.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F9C227D14E800872058 /* rsync_stream.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		93562FB5227D14E900872058 /* rsync_entry.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F9D227D14E800872058 /* rsync_entry.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FB3227D14E900872058 /* rsync_sshio.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F9B227D14E800872058 /* rsync_sshio.h */; };
+		93562FB4227D14E900872058 /* rsync_stream.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F9C227D14E800872058 /* rsync_stream.h */; };
+		93562FB5227D14E900872058 /* rsync_entry.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562F9D227D14E800872058 /* rsync_entry.h */; };
 		93562FB6227D14E900872058 /* rsync_client.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562F9E227D14E800872058 /* rsync_client.cpp */; };
 		93562FB7227D14E900872058 /* rsync_log.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562F9F227D14E800872058 /* rsync_log.cpp */; };
 		93562FB8227D14E900872058 /* rsync_pathutil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FA0227D14E800872058 /* rsync_pathutil.cpp */; };
 		93562FB9227D14E900872058 /* rsync_socketutil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FA1227D14E800872058 /* rsync_socketutil.cpp */; };
-		93562FBA227D14E900872058 /* rsync_socketutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FA2227D14E800872058 /* rsync_socketutil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FBA227D14E900872058 /* rsync_socketutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FA2227D14E800872058 /* rsync_socketutil.h */; };
 		93562FBB227D14E900872058 /* rsync_timeutil.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FA3227D14E800872058 /* rsync_timeutil.cpp */; };
-		93562FBC227D14E900872058 /* rsync_log.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FA4227D14E800872058 /* rsync_log.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FBC227D14E900872058 /* rsync_log.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FA4227D14E800872058 /* rsync_log.h */; };
 		93562FBD227D14E900872058 /* rsync_util.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FA5227D14E800872058 /* rsync_util.cpp */; };
 		93562FBE227D14E900872058 /* rsync_io.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FA6227D14E800872058 /* rsync_io.cpp */; };
-		93562FBF227D14E900872058 /* rsync_util.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FA7227D14E800872058 /* rsync_util.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FBF227D14E900872058 /* rsync_util.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FA7227D14E800872058 /* rsync_util.h */; };
 		93562FC0227D14E900872058 /* rsync_stream.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FA8227D14E800872058 /* rsync_stream.cpp */; };
 		93562FC1227D14E900872058 /* rsync_socketio.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FA9227D14E800872058 /* rsync_socketio.cpp */; };
-		93562FC2227D14E900872058 /* rsync_io.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAA227D14E800872058 /* rsync_io.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		93562FC3227D14E900872058 /* rsync_timeutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAB227D14E800872058 /* rsync_timeutil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FC2227D14E900872058 /* rsync_io.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAA227D14E800872058 /* rsync_io.h */; };
+		93562FC3227D14E900872058 /* rsync_timeutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAB227D14E800872058 /* rsync_timeutil.h */; };
 		93562FC4227D14E900872058 /* rsync_entry.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FAC227D14E800872058 /* rsync_entry.cpp */; };
-		93562FC5227D14E900872058 /* rsync_client.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAD227D14E800872058 /* rsync_client.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		93562FC6227D14E900872058 /* rsync_socketio.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAE227D14E900872058 /* rsync_socketio.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		93562FC7227D14E900872058 /* rsync_file.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAF227D14E900872058 /* rsync_file.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FC5227D14E900872058 /* rsync_client.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAD227D14E800872058 /* rsync_client.h */; };
+		93562FC6227D14E900872058 /* rsync_socketio.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAE227D14E900872058 /* rsync_socketio.h */; };
+		93562FC7227D14E900872058 /* rsync_file.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FAF227D14E900872058 /* rsync_file.h */; };
 		93562FC8227D14E900872058 /* rsync_file.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93562FB0227D14E900872058 /* rsync_file.cpp */; };
-		93562FCC227D175600872058 /* qi_build.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FCA227D175600872058 /* qi_build.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FCC227D175600872058 /* qi_build.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FCA227D175600872058 /* qi_build.h */; };
 		93562FCD227D175600872058 /* qi-make.py in Resources */ = {isa = PBXBuildFile; fileRef = 93562FCB227D175600872058 /* qi-make.py */; };
-		93562FD2227D176400872058 /* block_out.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FD0227D176400872058 /* block_out.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		93562FD2227D176400872058 /* block_out.h in Headers */ = {isa = PBXBuildFile; fileRef = 93562FD0227D176400872058 /* block_out.h */; };
 		93562FD7227D42F400872058 /* AcrosyncWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93562FD6227D42F400872058 /* AcrosyncWrapper.swift */; };
 		93562FD9227E075D00872058 /* Acrosync.mm in Sources */ = {isa = PBXBuildFile; fileRef = 93562FD8227E075D00872058 /* Acrosync.mm */; };
 		93562FDE227E0B5800872058 /* AcrosyncSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93562F77227D134C00872058 /* AcrosyncSwift.framework */; };
@@ -228,6 +228,8 @@
 			files = (
 				93562F7C227D134C00872058 /* AcrosyncSwift.h in Headers */,
 				93562FDF227E0BC200872058 /* Acrosync.h in Headers */,
+				93562FE5227E1F7300872058 /* RsyncClientWrapper.h in Headers */,
+				93562FE4227E1F6B00872058 /* InternalHeaders.h in Headers */,
 				93562FB5227D14E900872058 /* rsync_entry.h in Headers */,
 				93562FC6227D14E900872058 /* rsync_socketio.h in Headers */,
 				93562FC3227D14E900872058 /* rsync_timeutil.h in Headers */,
@@ -242,8 +244,6 @@
 				93562FC7227D14E900872058 /* rsync_file.h in Headers */,
 				93562FC2227D14E900872058 /* rsync_io.h in Headers */,
 				93562FB3227D14E900872058 /* rsync_sshio.h in Headers */,
-				93562FE5227E1F7300872058 /* RsyncClientWrapper.h in Headers */,
-				93562FE4227E1F6B00872058 /* InternalHeaders.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

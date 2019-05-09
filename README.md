@@ -20,6 +20,7 @@ The framework is written in Objective-C++ in order to interface with the underly
 ### Installation
 
 *Via [Cocoapods](https://cocoapods.org):*
+(Sorry, not currently working; I can't get my Podfile to lint.)
 
 `pod install 'AcrosyncSwift'`
 
